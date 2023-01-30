@@ -17,7 +17,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/4.png" alt="" loading="">
@@ -32,7 +32,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/5.png" alt="" loading="">
@@ -47,7 +47,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/6.png" alt="" loading="">
@@ -62,7 +62,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/1.png" alt="" loading="">
@@ -77,7 +77,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/2.png" alt="" loading="">
@@ -92,7 +92,68 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
+
+
+                                                                                <img src="/source/7.png" alt="" loading="">
+
+
+                                                                            </a>
+                                                                        </figure>
+                                                                    </li>
+                                                                </div>
+
+                                                                <div class="owl-item cloned" style="width: 195px;">
+                                                                    <li class="slide-item">
+                                                                        <figure class="image-box">
+
+
+                                                                            <a class="theme-btn btn-style-three">
+
+
+                                                                                <img src="/source/8.png" alt="" loading="">
+
+
+                                                                            </a>
+                                                                        </figure>
+                                                                    </li>
+                                                                </div>
+                                                                <div class="owl-item cloned" style="width: 195px;">
+                                                                    <li class="slide-item">
+                                                                        <figure class="image-box">
+
+
+                                                                            <a class="theme-btn btn-style-three">
+
+
+                                                                                <img src="/source/9.png" alt="" loading="">
+
+
+                                                                            </a>
+                                                                        </figure>
+                                                                    </li>
+                                                                </div>
+                                                                <div class="owl-item cloned" style="width: 195px;">
+                                                                    <li class="slide-item">
+                                                                        <figure class="image-box">
+
+
+                                                                            <a class="theme-btn btn-style-three">
+
+
+                                                                                <img src="/source/10.png" alt="" loading="">
+
+
+                                                                            </a>
+                                                                        </figure>
+                                                                    </li>
+                                                                </div>
+                                                                <div class="owl-item cloned" style="width: 195px;">
+                                                                    <li class="slide-item">
+                                                                        <figure class="image-box">
+
+
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/3.png" alt="" loading="">
@@ -107,7 +168,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/4.png" alt="" loading="">
@@ -122,7 +183,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/5.png" alt="" loading="">
@@ -137,7 +198,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/6.png" alt="" loading="">
@@ -152,7 +213,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/1.png" alt="" loading="">
@@ -167,7 +228,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/2.png" alt="" loading="">
@@ -182,7 +243,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/3.png" alt="" loading="">
@@ -197,7 +258,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/4.png" alt="" loading="">
@@ -212,7 +273,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/5.png" alt="" loading="">
@@ -227,7 +288,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/6.png" alt="" loading="">
@@ -242,7 +303,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/1.png" alt="" loading="">
@@ -257,7 +318,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/2.png" alt="" loading="">
@@ -272,7 +333,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/3.png" alt="" loading="">
@@ -287,7 +348,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/4.png" alt="" loading="">
@@ -302,7 +363,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/5.png" alt="" loading="">
@@ -317,7 +378,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/6.png" alt="" loading="">
@@ -332,7 +393,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/1.png" alt="" loading="">
@@ -347,7 +408,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/2.png" alt="" loading="">
@@ -362,7 +423,7 @@
                                                                         <figure class="image-box">
 
 
-                                                                            <a href="https://test.nanopro.uz/#kidum-home?hsLang=en" class="theme-btn btn-style-three">
+                                                                            <a class="theme-btn btn-style-three">
 
 
                                                                                 <img src="/source/3.png" alt="" loading="">
